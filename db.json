@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "Beef Burger",
+            "price": 5.40,
+            "type": "burger",
+            "image": "https://www.xburger.com/wp-content/uploads/2020/03/xburger-exploded-layout-8bit-1280x971.png"
+        },
+        {
+            "id": "2",
+            "title": "Chicken Burger",
+            "price": 3.40,
+            "type": "burger",
+            "image": "https://www.hungryjacks.com.au/Upload/HJ/Media/Menu/Product/Main/1592_Grilled_Chicken_Classic_WEB.png"
+        },
+        {
+            "id": "3",
+            "title": "Cheese Burger",
+            "price": 3.40,
+            "type": "burger",
+            "image": "https://i.pinimg.com/originals/95/aa/34/95aa34722ae9ea7e8faa874e5d24ebab.png"
+        },
+        {
+            "id": "4",
+            "title": "Taco",
+            "price": 3.80,
+            "type": "taco",
+            "image": "https://freepngimg.com/thumb/fish/169147-photos-fish-taco-free-photo.png"
+        },
+        {
+            "id": "5",
+            "title": "BigMac",
+            "price": 4.10,
+            "type": "burger",
+            "image": "https://chickzy.ca/wp-content/uploads/2021/06/Crazy-Beef-Burger.png"
+        },
+        {
+            "id": "6",
+            "title": "Sprite",
+            "price": 5.40,
+            "type": "drink",
+            "image": "https://catherineasquithgallery.com/uploads/posts/2021-03/1614584973_7-p-sprait-na-belom-fone-7.png"
+        },
+        {
+            "id": "7",
+            "title": "Pepsi",
+            "price": 2.20,
+            "type": "drink",
+            "image": "https://grizly.club/uploads/posts/2022-12/1670977653_grizly-club-p-pepsi-png-28.png"
+        },
+        {
+            "id": "8",
+            "title": "Coca Cola",
+            "price": 2.40,
+            "type": "drink",
+            "image": "https://cafe-ochaggrill.ru/uploads/product/100/159/kola_2023-01-24_01-52-22.png"
+        }
+    ]
+}
